@@ -1,3 +1,4 @@
+![Wie ADayS hilft](adays-frau-todolist.png)
 
 # ADayS – KI-gestützte To-Do-Liste für Menschen mit ADS/ADHS
 
