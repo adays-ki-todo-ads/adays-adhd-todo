@@ -1,7 +1,8 @@
-
 # ADayS – KI-gestützte To-Do-Liste für Menschen mit ADS/ADHS
 
-## Zusammenfassung
+
+
+##  Zusammenfassung
 ADayS ist eine KI-gestützte To-Do-Liste für Menschen mit ADS/ADHS. Die App hilft, große Aufgaben in kleine, machbare Schritte zu zerlegen, eine überschaubare Tagesplanung zu erstellen und Überforderung zu reduzieren. Projekt im Kurs „KI entwickeln“.
 
 ## Ihre Idee in Kürze
