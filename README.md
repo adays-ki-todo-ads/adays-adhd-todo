@@ -1,5 +1,7 @@
 <img width="1024" height="1536" alt="adays-frau-todolist png" src="https://github.com/user-attachments/assets/6965c12b-423e-44b9-843f-e279f6604f88" />
 
+## Zusammenfassung
+ADayS ist eine KI-gestützte To-Do-Liste für Menschen mit ADS/ADHS. Sie hilft, Aufgaben in kleine Schritte zu zerlegen, den Alltag zu strukturieren und Überforderung zu reduzieren. Projekt im Kurs „KI entwickeln“.
 
 # ADayS – KI-gestützte To-Do-Liste für Menschen mit ADS/ADHS
 
